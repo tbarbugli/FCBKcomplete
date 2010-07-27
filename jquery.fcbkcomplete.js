@@ -205,6 +205,7 @@ jQuery(function($){
                 });
                 input.attr({
                     "type": "text",
+                    "autocomplete": "off",
                     "class": "maininput",
                     "size": "1"
                 });
